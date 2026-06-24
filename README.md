@@ -7,10 +7,6 @@ This project is an interactive Tableau dashboard built to analyze and visualize 
 The dashboard helps transform raw customer feedback into meaningful business insights that can support decision-making in airline service improvement and customer experience optimization.
 
 ---
-## Markdown
-![Dashboard Screenshot](images/dashboard.png)
-
----
 
 ## 🎯 Objectives
 
